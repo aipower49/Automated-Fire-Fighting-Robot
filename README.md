@@ -42,7 +42,7 @@ The robot continuously scans for flames using its sensors. Once a flame is detec
 
 ## 📚 Report
 
-For detailed working, diagrams, and project explanation, refer to the full [Project Report (PDF)](https://drive.google.com/file/d/18LSC3Mnfz_6i_n7Ieh7RE2MCgAIoafsS/view?usp=drive_link)).
+For detailed working, diagrams, and project explanation, refer to the full [Project Report (PDF)]((https://drive.google.com/file/d/18LSC3Mnfz_6i_n7Ieh7RE2MCgAIoafsS/view?usp=drive_link)).
 
 ## 👨‍🎓 Contributors
 
